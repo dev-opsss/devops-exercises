@@ -374,6 +374,8 @@ Build artifacts are usually stored in a repository. They can be used in release 
 
 <details>
 <summary>Do you know what is a "post-mortem meeting"? What is your opinion on that?</summary><br><b>
+
+	A post-mortem meeting is held after a production incident to analyze what happened, identify the root cause, and define improvements. I think they’re extremely valuable because they transform outages into learning opportunities. I strongly believe in the blameless post-mortem approach — the goal is not to point fingers but to improve systems, processes, and monitoring. In my experience, well-run post-mortems lead to stronger automation, better runbooks, and fewer repeat incidents.
 </b></details>
 
 <details>
